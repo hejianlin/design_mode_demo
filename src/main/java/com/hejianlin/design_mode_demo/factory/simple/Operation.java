@@ -1,6 +1,4 @@
-package com.hejianlin.design_mode_demo.factory.simple_factory.simple;
-
-import sun.security.util.Length;
+package com.hejianlin.design_mode_demo.factory.simple;
 
 import java.util.ArrayList;
 import java.util.Collections;

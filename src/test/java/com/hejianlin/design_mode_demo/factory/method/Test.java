@@ -1,7 +1,7 @@
-package com.hejianlin.design_mode_demo.factory.simple_factory.method;
+package com.hejianlin.design_mode_demo.factory.method;
 
-import com.hejianlin.design_mode_demo.factory.simple_factory.method.factory.AdditionFactory;
-import com.hejianlin.design_mode_demo.factory.simple_factory.simple.Operation;
+import com.hejianlin.design_mode_demo.factory.method.factory.AdditionFactory;
+import com.hejianlin.design_mode_demo.factory.simple.Operation;
 
 public class Test {
 

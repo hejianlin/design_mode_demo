@@ -1,6 +1,6 @@
-package com.hejianlin.design_mode_demo.factory.simple_factory.simple.product;
+package com.hejianlin.design_mode_demo.factory.simple.product;
 
-import com.hejianlin.design_mode_demo.factory.simple_factory.simple.Operation;
+import com.hejianlin.design_mode_demo.factory.simple.Operation;
 
 import java.math.BigDecimal;
 import java.util.List;

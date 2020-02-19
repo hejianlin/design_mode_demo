@@ -1,6 +1,4 @@
-package com.hejianlin.design_mode_demo.factory.simple_factory.original;
-
-import javafx.scene.chart.BarChart;
+package com.hejianlin.design_mode_demo.factory.original;
 
 /**
  * 计算机类

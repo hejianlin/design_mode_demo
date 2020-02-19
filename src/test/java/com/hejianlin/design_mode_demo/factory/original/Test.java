@@ -1,4 +1,4 @@
-package com.hejianlin.design_mode_demo.factory.simple_factory.original;
+package com.hejianlin.design_mode_demo.factory.original;
 
 public class Test {
 

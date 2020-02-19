@@ -1,6 +1,6 @@
-package com.hejianlin.design_mode_demo.factory.simple_factory.simple;
+package com.hejianlin.design_mode_demo.factory.simple;
 
-import com.hejianlin.design_mode_demo.factory.simple_factory.simple.factory.OperationFactory;
+import com.hejianlin.design_mode_demo.factory.simple.factory.OperationFactory;
 
 public class Test {
 
