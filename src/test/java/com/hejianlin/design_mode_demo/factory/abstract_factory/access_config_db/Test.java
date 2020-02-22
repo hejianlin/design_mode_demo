@@ -1,10 +1,9 @@
-package com.hejianlin.design_mode_demo.factory.access_config_db;
+package com.hejianlin.design_mode_demo.factory.abstract_factory.access_config_db;
 
 import com.hejianlin.design_mode_demo.DesignModeDemoApplication;
 import com.hejianlin.design_mode_demo.factory.abstract_factory.abstract_db.factory.IFactory;
 import com.hejianlin.design_mode_demo.factory.abstract_factory.abstract_db.produce.IDepartmentOperation;
 import com.hejianlin.design_mode_demo.factory.abstract_factory.abstract_db.produce.IUserOperation;
-import com.hejianlin.design_mode_demo.factory.abstract_factory.access_config_db.DataAccess;
 import com.hejianlin.design_mode_demo.factory.abstract_factory.original_db.Department;
 import com.hejianlin.design_mode_demo.factory.abstract_factory.original_db.User;
 import org.junit.runner.RunWith;

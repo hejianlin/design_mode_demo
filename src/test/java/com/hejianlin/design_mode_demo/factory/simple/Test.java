@@ -1,7 +1,5 @@
 package com.hejianlin.design_mode_demo.factory.simple;
-
 import com.hejianlin.design_mode_demo.factory.simple.factory.OperationFactory;
-
 public class Test {
 
     @org.junit.Test

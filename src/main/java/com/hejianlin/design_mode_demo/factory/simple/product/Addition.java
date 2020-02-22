@@ -1,9 +1,6 @@
 package com.hejianlin.design_mode_demo.factory.simple.product;
-
 import com.hejianlin.design_mode_demo.factory.simple.Operation;
-
 import java.util.List;
-
 
 public class Addition extends Operation {
 
@@ -12,5 +9,4 @@ public class Addition extends Operation {
         List<Double> paramList = getParam(2, num);
         return paramList.get(0)+paramList.get(1);
     }
-
 }

@@ -1,7 +1,6 @@
 package com.hejianlin.design_mode_demo.factory.original;
 
 public class Test {
-
     @org.junit.Test
     public void test(){
         Operation operation = new Operation();
